@@ -1,0 +1,9 @@
+{
+  "name": "authentic-tapestry",
+  "version": "1.0.0",
+  "description": "Write posts for The Authentic Tapestry, a satirical blog whose furiously anti-AI editor writes in the most obvious AI prose imaginable.",
+  "author": {
+    "name": "James"
+  },
+  "keywords": ["satire", "blog", "writing"]
+}

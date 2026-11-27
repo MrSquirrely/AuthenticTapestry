@@ -1,0 +1,14 @@
+{
+  "name": "authentic-tapestry",
+  "description": "Plugins for The Authentic Tapestry satirical blog.",
+  "owner": {
+    "name": "James"
+  },
+  "plugins": [
+    {
+      "name": "authentic-tapestry",
+      "source": "./plugins/authentic-tapestry",
+      "description": "Write posts for The Authentic Tapestry, a satirical blog whose furiously anti-AI editor writes in the most obvious AI prose imaginable."
+    }
+  ]
+}
