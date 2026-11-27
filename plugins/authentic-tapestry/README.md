@@ -8,7 +8,7 @@ A Claude Code plugin for writing posts for **The Authentic Tapestry**, a satiric
 /authentic-tapestry:post <topic or thing to critique>
 ```
 
-The skill writes a post in the voice of Julian Vance (dramatic hook, colon-heavy subheadings, rule-of-three lists, a Slop-O-Meter verdict, a preachy conclusion and an over-protesting author bio). If the project root has a `posts.js` with a `window.POSTS` array, the post is added there as a new entry; otherwise it is returned as Markdown. Leave the topic out and it picks one the blog has not covered.
+The skill writes a post in the voice of Jevan Corliss (dramatic hook, colon-heavy subheadings, rule-of-three lists, a Slop-O-Meter verdict, a preachy conclusion and an over-protesting author bio). If the project root has a `posts.js` with a `window.POSTS` array, the post is added there as a new entry; otherwise it is returned as Markdown. Leave the topic out and it picks one the blog has not covered.
 
 ## Install
 

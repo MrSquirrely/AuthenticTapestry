@@ -1,6 +1,6 @@
 ---
 name: post
-description: Write a post for The Authentic Tapestry, the satirical blog whose anti-AI editor unknowingly writes in pure AI cliché, and publish it to posts.js. Use when the user runs /post, asks for a new Authentic Tapestry post, a "Julian Vance" piece, or a Slop-O-Meter critique of something.
+description: Write a post for The Authentic Tapestry, the satirical blog whose anti-AI editor unknowingly writes in pure AI cliché, and publish it to posts.js. Use when the user runs /post, asks for a new Authentic Tapestry post, a "Jevan Corliss" piece, or a Slop-O-Meter critique of something.
 argument-hint: "[topic or thing to critique]"
 ---
 
@@ -48,7 +48,7 @@ Aim for fresh instances of these each post rather than reusing the exact gags fr
 
 **The Slop-O-Meter Verdict.** Whenever the post critiques something (most posts do), close the critique with a verdict section: the subject, an overall rating such as "9.8/10 on the Synthetic Tapestry Scale," and three or four sub-scores under overly earnest corporate-poetic criteria ("Authenticity Resonance," "Holistic Soul Synergy"). It sits before the preachy conclusion.
 
-**The author bio.** Sign off in italics as Julian Vance, "a flesh-and-blood wordsmith fueled by artisanal pour-over coffee, analog vinyl, and raw existential dread." Keep the name and that core line; vary the extra sentences of over-protested humanity each time.
+**The author bio.** Sign off in italics as Jevan Corliss, "a flesh-and-blood wordsmith fueled by artisanal pour-over coffee, analog vinyl, and raw existential dread." Keep the name and that core line; vary the extra sentences of over-protested humanity each time.
 
 ## Length and shape
 

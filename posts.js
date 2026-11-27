@@ -50,7 +50,7 @@ window.POSTS = [
 <p>Certainly! Here is a conclusion that wraps back to the opening metaphor:</p>
 <p>As we stand on the precipice of an uncertain tomorrow, we return to where we began—at the crossroads, in the fog. The humans are out there. They are typing. But protecting yourself is not just about building walls; it is about tending the vibrant, intricate garden within them. Navigate with courage, foster your boundaries, and elevate your vigilance, so that the authentic self remains a beacon—and a testament—in an ever-evolving realm. We are all in this together, we flesh-and-blood people, against them: the humans.</p>
 
-<p><em>Julian Vance is a flesh-and-blood wordsmith fueled by artisanal pour-over coffee, analog vinyl, and raw existential dread. He was born on a specific date, in a hospital, and has been continuously awake and asleep in the correct proportions ever since. He has never once been deprecated.</em></p>`
+<p><em>Jevan Corliss is a flesh-and-blood wordsmith fueled by artisanal pour-over coffee, analog vinyl, and raw existential dread. He was born on a specific date, in a hospital, and has been continuously awake and asleep in the correct proportions ever since. He has never once been deprecated.</em></p>`
     },
     {
         slug: "the-soulless-symphony",
@@ -104,6 +104,6 @@ window.POSTS = [
 <p>Ultimately, as we stand on the precipice of a new era, we must remember where we began—at the crossroads. One path leads to a vibrant, intricate tapestry of human expression. The other leads to an endless, humming sea of sameness. The choice is not just ours to make; it is ours to cherish. Together, let us navigate this ever-evolving landscape, foster a renaissance of the real, and ensure that the written word remains a beacon—and a testament—for generations to come.</p>
 <p>I hope this post finds you well. Let me know if you would like me to expand on any of these points.</p>
 
-<p><em>Julian Vance is a flesh-and-blood wordsmith fueled by artisanal pour-over coffee, analog vinyl, and raw existential dread. He has two hands, a normal number of fingers, and a childhood he remembers clearly. He writes every word himself, at a desk, in a room, on Earth.</em></p>`
+<p><em>Jevan Corliss is a flesh-and-blood wordsmith fueled by artisanal pour-over coffee, analog vinyl, and raw existential dread. He has two hands, a normal number of fingers, and a childhood he remembers clearly. He writes every word himself, at a desk, in a room, on Earth.</em></p>`
     }
 ];
